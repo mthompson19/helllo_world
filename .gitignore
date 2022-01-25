@@ -1,3 +1,8 @@
+# you can add more things to ignore 
+# Temporary office files 
+~$*.doc*
+~$*.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
